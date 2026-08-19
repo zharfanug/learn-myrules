@@ -1,4 +1,4 @@
 <rule id="1001">
-  <name>SOC production rule</name>
+  <name>SOC production rule v2</name>
   <reference>new-reference</reference>
 </rule>
